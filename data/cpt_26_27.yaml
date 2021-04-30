@@ -1,0 +1,223 @@
+qa:
+	context: < 'Great Britain did not support the use of
+force against Germany, however. The British government viewed the occupation of
+German territory by German troops as a
+reasonable action by a dissatisfied power.
+The London Times noted that the Germans
+were only “going into their own back garden.” Great Britain thus began to practice
+a policy of appeasement. This policy was
+based on the belief that if European states
+satisfied the reasonable demands of dissatisfied powers, the dissatisfied powers
+would be content, and stability and peace
+would be achieved in Europe.'
+	question: 'What policy attempted to satisfy the reasonable demands of dissatisfied powers?'
+	answer: 'Appeasement'
+
+qa:
+  context: < 'By September 1932, the Japanese army
+had formed Manchuria into a separate
+state and renamed it Manchukuo. They
+placed a puppet ruler, Henry Pu Yi, on the
+throne. As an infant, Henry Pu Yi had been
+China’s “last emperor.” He had abdicated
+that throne, however, following the revolution of 1911 in China.'
+  question: 'What name did Japan give Manchuria?'
+  answer: 'Manchukuo'
+
+qa:
+  context: < 'Japanese leaders had hoped that their
+lightning strike at American bases would
+destroy the U.S. fleet in the Pacific. The
+Roosevelt administration, they thought,
+would now accept Japanese domination
+of the Pacific. The American people, in
+the eyes of Japanese leaders, were soft.
+Their easy, rich life had made them unable
+to fight. The Japanese miscalculated, however.
+The attack on Pearl Harbor unified American opinion about becoming involved in
+the war. Once bitterly divided over participating in the war, the American people now
+took up arms. The United States joined with
+European nations and Nationalist China in
+a combined effort to defeat Japan. '
+  question: < 'What event triggered the entry of the United States into
+World War II?'
+  answer: 'The attack on Pearl Harbor'
+
+qa:
+  context: < 'On the Eastern Front, after the capture of
+the Crimea, Hitler’s generals wanted him
+to concentrate on the Caucasus and its oil
+fields. Hitler, however, decided that
+Stalingrad, a major industrial center on
+the Volga River, should be taken first.
+In perhaps the most terrible battle of the
+war, between November 1942 and February 2, 1943, the Soviets launched a counterattack. German troops were stopped, then
+encircled, and supply lines were cut off, all
+in frigid winter conditions. The Germans
+were forced to surrender at Stalingrad. The
+entire German Sixth Army, considered the
+best of the German troops, was lost.'
+  question: < 'In what city did Hitler lose his entire German Sixth Army?'
+  answer: 'Stalingrad'
+
+qa:
+  context: < 'Since the autumn of 1943, the Allies had
+planned an invasion of France from Great
+Britain, across the English Channel.
+Finally, on June 6, 1944 (D-Day), Allied
+forces under U.S. general Dwight D.
+Eisenhower landed on the Normandy
+beaches in history’s greatest naval invasion. The Allies fought their way past
+hidden underwater mines, treacherous
+barbed wire, and horrible machine gun
+fire. Believing the battle was a diversion
+and the real invasion would occur elsewhere, the Germans responded slowly.
+This gave the Allied forces time to set up
+a beachhead. Within three months, the
+Allies had landed two million men and
+500,000 vehicles. Allied forces then began
+pushing inland and broke through German
+defensive lines.'
+  question: < 'What battle in World War II is considered history’s greatest
+naval invasion?'
+  answer: 'Normandy'
+
+qa:
+  context: < 'Reinhard Heydrich, head of the SS’s Security Service, had the task of administering
+the Final Solution. Heydrich created special
+strike forces, called Einsatzgruppen, to carry
+out Nazi plans. After the defeat of Poland,
+these forces rounded up all Polish Jews and
+put them in ghettos set up in a number of
+Polish cities. Conditions in the ghettos were
+horrible. Families were crowded together in
+unsanitary housing. The Nazis tried to starve
+residents by allowing only minimal amounts
+of food. In spite of their suffering, residents
+carried on, and some organized resistance
+against the Nazis.'
+  question: < 'What was the name for the special strike forces who carried
+out the Final Solution?'
+  answer: 'Einsatzgruppen'
+
+qa:
+  context: < 'Soviet women played a major role in the
+war effort. Women and girls worked in
+industries, mines, and railroads. Overall,
+the number of women working in industry
+increased almost 60 percent. Soviet women
+were also expected to dig antitank ditches
+and work as air-raid wardens. In addition,
+the Soviet Union was the only country in
+World War II to use women in battle. Soviet
+women served as snipers and also in aircrews of bomber squadrons.'
+  question: < 'What was the only country in World War II that used women
+in battle? '
+  answer: 'Soviet Union'
+
+qa:
+  context: < 'The search for security during the Cold
+War led to the formation of new military
+alliances. The North Atlantic Treaty Organization (NATO) was formed in April 1949
+when Belgium, Luxembourg, France, the
+Netherlands, Great Britain, Italy, Denmark,
+Norway, Portugal, and Iceland signed a
+treaty with the United States and Canada.
+All the powers agreed to provide mutual
+help if any one of them was attacked. A
+few years later, West Germany, Turkey, and
+Greece also joined.
+In 1955 the Soviet Union joined with
+Albania, Bulgaria, Czechoslovakia, East
+Germany, Hungary, Poland, and Romania
+in a formal military alliance known as the
+Warsaw Pact. Now, Europe was once again divided into hostile alliance systems, just
+as it had been before World War I.'
+  question: < 'What is the name of the military alliance the Soviet Union
+made with seven nations in 1955?'
+  answer: 'Warsaw Pact'
+
+qa:
+  context: < 'The invasion began on Sunday, April 16,
+1961. By Wednesday, the exiled fighters
+began surrendering. One hundred and
+fourteen died; the rest were captured by
+Castro’s troops.
+After the Bay of Pigs, the Soviet Union sent
+advisers to Cuba. Then, in 1962, Khrushchev began to place nuclear missiles in
+Cuba. The missiles were meant to counteract U.S. nuclear weapons placed in Turkey,
+a country within easy range of the Soviet
+Union.'
+  question: < 'What did Nikita Khrushchev place in Cuba in 1962?'
+  answer: 'nuclear missiles'
+
+qa:
+  context: < 'Khrushchev loosened government controls on literary and artistic works. In 1962,
+for example, he allowed the publication of
+One Day in the Life of Ivan Denisovich. This
+novel, written by Aleksandr Solzhenitsyn
+(SOHL•zhuh• NEET•suhn), is a grim
+portrayal of life in a Siberian labor camp. Many Soviets identified with Ivan as a symbol of the suffering endured under Stalin.'
+  question: < 'Who wrote One Day in the Life of Ivan Denisovich?'
+  answer: 'Aleksandr Solzhenitsyn'
+
+qa:
+  context: < 'Under Adenauer, West Germany experienced an “economic miracle.” This revival
+of the West German economy was largely
+guided by the minister of finance, Ludwig
+Erhard. Unemployment fell from 8 percent
+in 1950 to 0.4 percent in 1965. To maintain
+its economic expansion, West Germany
+even brought in hundreds of thousands of
+“guest” workers on visas from other countries such as Italy, Spain, Greece, Turkey,
+and Yugoslavia.'
+  question: < 'Which postwar country experienced an “economic miracle”?'
+  answer: 'West Germany'
+
+qa:
+  context: < 'In the North and West, local patterns of
+segregation led to higher unemployment
+rates for African Americans than for whites.
+In the summer of 1965, race riots broke out
+in the Watts district of Los Angeles. Thirtyfour people died and over 1,000 buildings
+were destroyed. In 1968 Martin Luther King, Jr., was
+assassinated. Riots hit over 100 cities,
+including Washington, D.C. The riots led
+to a “white backlash” (whites became less
+sympathetic to the cause of racial equality)
+and continued the racial division of the
+United States'
+  question: < 'In which year was Martin Luther King, Jr., assassinated?'
+  answer: ''
+
+qa:
+  context: < 'Of great importance to the emergence of the postwar
+women’s liberation movement was the work of Simone
+de Beauvoir (duh•boh•VWAHR). In 1949 she published
+The Second Sex. As a result of male-dominated societies,
+she argued, women were defined by their differences from
+men and consequently received second-class status. De
+Beauvoir influenced both the American and European
+women’s movements.'
+  question: < 'Who wrote The Second Sex? '
+  answer: 'Simone de Beauvoir'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
