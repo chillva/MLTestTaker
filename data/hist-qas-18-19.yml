@@ -1,0 +1,54 @@
+chapter-18:
+    qa1:
+        context: 'When the gov-ernment  decided  to  spend  huge  sums  to  help  the  American  colonists  against  Brit-ain, the budget went into total crisis.With France on the verge of financial col-lapse, Louis XVI was forced to call a meet-ing of the Estates-General, repre sentatives of  all  three  estates  meeting  together,  to  raise  new  taxes.  The  Estates-General  had  not  met  since  1614  because  French  kings  were so powerful.'
+        question: 'Who called a meeting of the Estates-General in 1789?'
+        answer: 'Louis XVI'
+    qa2:
+        context: 'The  new  Constitution  of  1791  set  up  a  limited  monarchy.  There  was  still  a  king,  but  a  Legislative  Assembly  would  make  the  laws.  The  new  body  was  designed  to  be  conservative.  First,  only  the  so-called  “active” citizens—men over 25 who paid a certain  amount  of  taxes—could  vote.  All  others  were  considered  “passive”  citizens  with equal rights but no vote. Second, the method of choosing its 745 deputies meant that only relatively wealthy people would serve. Not only the clergy, but also govern-ment officials and judges, would be elected. Local  governments  were  put  in  charge  of  taxation. The influence of the new govern-ment began to spread throughout France.'
+        question: 'The Constitution of 1791 set up which form of government?'
+        answer: 'limited monarchy'
+    qa3:
+        context: 'Napoleon then turned to his Continental System  to  defeat  Britain.  The  aim  of  the  Continental  System  was  to  stop  British  goods  from  reaching  the  European  conti-nent to be sold there. By weakening Britain economically, Napoleon would destroy its ability to wage war. The  Continental  System  also  failed.  Allied states resented being told by Napo-leon  that  they  could  not  trade  with  the  British.'
+        question: 'What was the goal of the Continental System?'
+        answer: 'stop British goods'
+    qa4:
+        context: 'Napoleon  raised  another  French  army of devoted veterans who rallied from all over France. He  then  readied  an  attack  on  the  allied  troops  stationed  across the border in Belgium.At Waterloo in Belgium on June 18, 1815, Napoleon met a combined British and Prussian army under the Duke of Wellington  and  suffered  a  bloody  defeat.  This  time,  the  victorious allies exiled him to St. Helena, a small island in the south Atlantic. Napoleon remained in exile until his death in 1821, but his memory haunted French political life for many decades.'
+        question: 'Where was Napoleon defeated for the fi nal time?'
+        answer: 'Waterloo in Belgium'
+chapter-19:
+    qa1:
+        context: 'The  cotton  industry  became  even  more  productive  when  the  steam  engine  was  improved  in  the  1760s  by  James  Watt,  a  Scottish  engineer.  In  1782,  Watt  made  changes  that  enabled  the  engine  to  drive  machinery.  Steam  power  could  now  be  used  to  spin  and  weave  cotton.  Before  long,  cotton  mills  using  steam  engines  were found all over Britain. Because steam engines  were  fired  by  coal,  not  powered  by  water,  they  did  not  need  to  be  located  near rivers.'
+        question: 'Which engineer improved the steam engine so it could drive machinery?'
+        answer: 'James Watt'
+    qa2:
+        context: 'The country became a single massive market for the manufactured goods of the Northeast.Labor  for  the  growing  number  of  facto-ries in the Northeast came chiefly from the farm  population.  Women  and  girls  made  up a large majority of the workers in large textile (cotton and wool) factories.Factory owners sometimes sought entire families,  including  children,  to  work  in  their  factories.'
+        question: 'From where did labor for the factories in the United States mostly come?'
+        answer: 'farm populations'
+    qa3:
+        context: 'European  cities  and  towns  dramatically  grew.   Industrialization   spurred   this   growth. By 1850, British and Belgian cities were  home  to  many  industries.  With  the  steam engine, factory owners could locate their  plants  in  cities.  People  moved  from  the country to the cities to find work.In 1800, Great Britain had one major city, London, with a population of about 1 mil-lion.'
+        question: 'In what did industrialization trigger dramatic growth?'
+        answer: 'cities and towns'
+    qa4:
+        context: 'The  haughty  Austrian  foreign  minister,  Prince  Klemens  von  Metternich (MEH•tuhr•nihk), was the most influential leader at that meeting in Vienna. Metternich claimed that the principle of legitimacy guided him. He meant that lawful monarchs from the royal families who had ruled before Napoleon would be restored to  their  positions  of  power.  This,  they  believed,  would  ensure  peace and stability in Europe. The victorious powers had already restored the Bourbon king to the French throne in 1814.'
+        question: 'Who was the most influential leader at the Congress of Vienna meeting in 1814?'
+        answer: 'Klemens von Metternich'
+    qa5:
+        context: 'In the same year, 1830, three more revo-lutions  occurred.  Nationalism  was  the  chief  force  in  all  three  of  them.  Belgium,  which  had  been  annexed  to  the  former  Dutch  Republic  in  1815,  rebelled  and  cre-ated  an  independent  state.  In  Poland  and  Italy,  which  were  both  ruled  by  foreign  powers, efforts to break free were less suc-cessful.   Russians   crushed   the   Polish   attempt to establish an independent Polish nation.   Meanwhile   Austrian   troops   marched  south  and  put  down  revolts  in  a  number of Italian states.'
+        question: 'What ideology or ideologies were behind the 1830 revolutions?'
+        answer: 'Nationalism'
+    qa6:
+        context: ' When the Prus-sian  legislature  refused  to  levy  new  taxes  for the proposed military changes, William I  appointed  a  new  prime  minister,  Count  Otto von Bismarck. Bismarck has often been seen as the fore-most nineteenth-century practitioner of realpolitik—the  “politics  of  reality,”  or  politics  based  on  practical  matters  rather  than  on  theory or ethics. Bismarck openly voiced his strong dislike of anyone who opposed him.'
+        question: 'Who was the politician who practiced realpolitik?'
+        answer: 'Otto von Bismarck'
+    qa7:
+        context: 'Czar  Alexander  II  decided  to  make some reforms. Serfdom,  the  largest  problem  in  czarist  Russia, was not just a humanitarian issue, but  a  complicated  one  that  affected  the  economic,  social,  and  political  future  of  Russia. On March 3, 1861, Alexander issued an emancipation  edict,  which  freed  the  serfs.  Peasants  could  now  own  property  and marry as they chose. The government provided  land  for  the  peasants  by  buying  it from the landlords'
+        question: 'What was the largest problem in czarist Russia?'
+        answer: 'Serfdom'
+    qa8:
+        context: 'For  the  true  romantic,  poetry  was  the  ideal  art  form.  The  romantics  viewed  poetry as the direct expression of the soul. Romantic poetry gave expression to one of the   most   important   characteristics   of   romanticism—its  love  of  nature.  Roman-tics believed that nature served as a mirror into  which  humans  could  look  to  learn  about themselves. This is especially evident in  the  poetry  of  William  Wordsworth,  the  foremost English romantic poet of nature.'
+        question: 'What did romantics view as the direct expression of the soul?'
+        answer: 'poetry'
+    qa9:
+        context: 'In biology, the Frenchman Louis Pasteurproposed  the  germ  theory  of  disease,  which  was  crucial  to  the  development  of  modern  scientific  medical  practices.  In  chemistry, the Russian Dmitry Mendeleyev in  the  1860s  classified  all  the  material  ele-ments  then  known  on  the  basis  of  their  atomic  weights.  In  Great  Britain,  Michael  Faraday put together a primitive generator that laid the foundation for the use of elec-tric current'
+        question: 'Who classifi ed all the material elements known in the 1860s based on their atomic weights?'
+        answer: 'Dmitry Mendeleyev'
