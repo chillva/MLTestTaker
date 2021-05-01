@@ -1,0 +1,127 @@
+chapter-1:
+  qa1:
+    context: 'Archaeology is the study of past societies through analysis of
+  what people left behind. Archeologists dig up and examine
+  artifacts—objects made by humans. Artifacts may be tools, weapons,
+  art, and even buildings made by early humans.'
+    question: 'What human made objects do Archaeologists study?'
+    answer: 'artifacts'
+
+  qa2:
+    context: 'For decades, scientists assumed these earliest of upright creatures must also
+  have used tools. In 1974, Donald Johanson challenged this theory when his team
+  found a new skeleton in Ethiopia. Johanson nicknamed the female skeleton “Lucy”
+  and suggested that she was the common ancestor for several types of early human
+  life. Scientists called this type of hominid Australopithecus (aw•STRAY•loh•PIH•
+  thuh•CUS), or “southern ape.” It flourished in eastern and southern Africa.'
+    question: 'What type of hominid did Donald Johnason and his team find in Ethiopia?'
+    answer: 'Australopithecus'
+
+  qa3:
+    context: 'The end of the last Ice Age, around 8000 b.c., was followed by what is called the Neolithic Revolution—that is, the revolution
+  that occurred in the Neolithic Age, the period of human history from 8000 to 4000 b.c. The word Neolithic is Greek for “new stone.”
+  The name New Stone Age, however, is somewhat misleading. The real change in the Neolithic Revolution was the shift from the
+  hunting of animals and the gathering of food to the keeping of animals and the growing of food on a regular basis—what we call
+  systematic agriculture.'
+    question: 'What kind of agriculture is the keeping of animals and the growing of food on a regular basis?'
+    answer: 'systematic agriculture'
+
+  qa4:
+    context: 'As a result of the steady food supply, people in Çatalhüyük had a food surplus.
+  This meant people could enter other occupations than farming. Some people became artisans. These skilled workers
+  made products such as weapons and jewelry and traded them with neighboring peoples. This exposed the people of Çatalhüyük to the wider world.'
+    question: 'What was the name of the workers wo made products such as weapons and jewelry?'
+    answer: 'artisans'
+
+  qa5:
+    context: 'Anthropology is the study of human life and culture. Culture includes what people wear, how they organize their society, and
+  what they value. Anthropologists use artifacts and human fossils to create a picture of peoples’ everyday lives. Fossils are rocklike
+  remains of biological organisms—a leaf imprint or a skeleton. '
+    question: 'Which type of scientist uses fossils and artifacts to study early humans?'
+    answer: 'Anthropologists'
+
+  qa6:
+    context: 'The second group descended from Homo sapiens is Homo sapiens sapiens, meaning
+  “wise, wise human.” These are the first to have an anatomy similar to people today. 
+  Physical evidence suggests that Homo sapiens sapiens appeared in Africa between
+  150,000 and 200,000 years ago. They probably spread out of Africa to other parts of the world about 100,000 years ago, replacing
+  populations of earlier hominids in Europe and Asia. This is referred to as the “out-of-Africa” theory (or replacement theory).'
+    question: 'Which hominids do scientists believe were probably the first to spread out of Africa?'
+    answer: 'Homo sapiens sapiens'
+
+  qa7:
+    context: 'Because Paleolithic people were hunters and gatherers, they had to follow animal
+  migrations and vegetation cycles. Paleolithic humans were nomads—people who move from place to place to survive.
+  Archaeologists and anthropologists think these nomads probably lived in small
+  groups of twenty or thirty. Hunting depended on careful observation of animal
+  behavior patterns and demanded group cooperation for success.'
+    question: 'What did Paleolithic people have to do to survive?'
+    answer: 'follow animal migrations'
+
+  qa8:
+    context: 'Early humans were able to sustain themselves through the use of stone tools. To make such tools, early people used very
+  hard stones, such as flint. They used one stone to chip away parts of another, creating an edge. Hand axes of various kinds—
+  pointed tools with one or more cutting edges—were the most common. Hand axes
+  eventually were set in wooden handles, making them easier to use. By attaching
+  wooden poles to spear points and hardening the tips in fire, humans created spears to kill large animals'
+    question: 'Which invention allowed humans to hunt large animals?'
+    answer: 'spears'
+
+  qa9:
+    context: 'The first civilizations developed in river valleys where people could carry on the
+  large-scale farming that was needed to feed a large population. As farming became
+  abundant, more people would live in the city. New patterns of living soon emerged.'
+    question: 'Where did the first civilizations develop?' 
+    answer: 'river valleys'
+
+  qa10:
+    context: 'By 5000 b.c., farmers in Southeast Asia were growing rice. From there, rice farming spread into southern China. By 6000
+  b.c., farming millet and domesticating dogs and pigs seem to have been established in northern China. In the Western
+  Hemisphere, Mesoamericans grew beans, squash, and maize. They also domesticated dogs and fowl in this period between 7000 and 5000 b.c'
+    question: 'Who were people in the western Hemisphere growing beans, squash, and maize in 7000 b.c.?'
+    answer: 'Mesoamericans'
+
+
+chapter-2:
+  qa1:
+    context: 'The most prominent building in a Sumerian city was the temple dedicated to the
+  chief god or goddess of the city. This temple was often built atop a massive stepped tower called a ziggurat.'
+    question: 'What is a Sumerian Stepped tower called?'
+    answer: 'ziggurat'
+
+  qa2:
+    context: 'The Jews were monotheistic; they believed in one God called Yahweh
+  (YAH•way), the Creator of the world and everything in it. In the Jews’ view, God
+  ruled the world; all peoples were his servants, whether they knew it or not. God
+  had created nature but was not in nature. The sun, the wind, and other natural phenomena were not gods, but God’s creations
+  to be admired but not worshiped.'
+    question: 'What is the belief in one God called?'
+    answer: 'monotheistic'
+
+  qa3:
+    context: 'Egypt’s history begins around 3100 b.c., when King Menes (MEE•NEEZ) united
+  Upper and Lower Egypt into a single kingdom and created the first royal dynasty. A dynasty is a family of rulers whose right to
+  rule is passed on within the family'
+    question: 'What is a family of rulers who pass on power within the family called?'
+    answer: 'dynasty'
+
+  qa4:
+    context: 'Mesopotamian civilization refers to the achievements of people from three general areas: Assyria, Akkad, and Sumer. The
+  Sumerians were the creators of the first Mesopotamian civilization.'
+    question: 'Who created the first Mesopotamian civilization?'
+    answer: 'Sumerians'
+
+  qa5:
+    context: 'To the north of the Sumerian city-states were the Akkadians (uh•KAY•dee•uhnz).
+  They spoke a Semitic language. Around 2340 b.c., Sargon, leader of the Akkadians,
+  overran the Sumerian city-states and set up the first empire in world history.'
+    question: 'Which leader set up the first empire in world history?'
+    answer: 'Sargon'
+
+  qa6:
+    context: 'The Sumerians created many inventions that still affect our lives today. Probably
+  their greatest invention was their writing. In addition, historians credit them with
+  many technological innovations.'
+    question: 'What was the greatest Sumerian invention?'
+    answer: 'writing'
+
