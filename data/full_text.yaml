@@ -1,0 +1,245 @@
+qa1:
+  context: 'Great Britain did not support the use of force against Germany, however. The British government viewed the occupation of German territory by German troops as a reasonable action by a dissatisfied power. The London Times noted that the Germans were only “going into their own back garden.” Great Britain thus began to practice a policy of appeasement. This policy was based on the belief that if European states satisfied the reasonable demands of dissatisfied powers, the dissatisfied powers would be content, and stability and peace would be achieved in Europe.'
+  question: 'What policy attempted to satisfy the reasonable demands of dissatisfied powers?'
+  answer: 'appeasement'
+
+qa2:
+  context: 'By September 1932, the Japanese army had formed Manchuria into a separate state and renamed it Manchukuo. They placed a puppet ruler, Henry Pu Yi, on the throne. As an infant, Henry Pu Yi had been China’s “last emperor.” He had abdicated that throne, however, following the revolution of 1911 in China.'
+  question: 'What name did Japan give Manchuria?'
+  answer: 'Manchukuo'
+
+qa3:
+  context: 'Japanese leaders had hoped that their lightning strike at American bases would destroy the U.S. fleet in the Pacific. The Roosevelt administration, they thought, would now accept Japanese domination of the Pacific. The American people, in the eyes of Japanese leaders, were soft. Their easy, rich life had made them unable to fight. The Japanese miscalculated, however. The attack on Pearl Harbor unified American opinion about becoming involved in the war. Once bitterly divided over participating in the war, the American people now took up arms. The United States joined with European nations and Nationalist China in a combined effort to defeat Japan. '
+  question: 'What event triggered the entry of the United States into World War II?'
+  answer: 'The attack on Pearl Harbor'
+
+qa4:
+  context: 'On the Eastern Front, after the capture of the Crimea, Hitler’s generals wanted him to concentrate on the Caucasus and its oil fields. Hitler, however, decided that Stalingrad, a major industrial center on the Volga River, should be taken first. In perhaps the most terrible battle of the war, between November 1942 and February 2, 1943, the Soviets launched a counterattack. German troops were stopped, then encircled, and supply lines were cut off, all in frigid winter conditions. The Germans were forced to surrender at Stalingrad. The entire German Sixth Army, considered the best of the German troops, was lost.'
+  question: 'In what city did Hitler lose his entire German Sixth Army?'
+  answer: 'Stalingrad'
+
+qa5:
+  context: 'Since the autumn of 1943, the Allies had planned an invasion of France from Great Britain, across the English Channel. Finally, on June 6, 1944 (D-Day), Allied forces under U.S. general Dwight D. Eisenhower landed on the Normandy beaches in history’s greatest naval invasion. The Allies fought their way past hidden underwater mines, treacherous barbed wire, and horrible machine gun fire. Believing the battle was a diversion and the real invasion would occur elsewhere, the Germans responded slowly. This gave the Allied forces time to set up a beachhead. Within three months, the Allies had landed two million men and 500,000 vehicles. Allied forces then began pushing inland and broke through German defensive lines.'
+  question: 'What battle in World War II is considered history’s greatest naval invasion?'
+  answer: 'Normandy'
+
+qa6:
+  context: 'Reinhard Heydrich, head of the SS’s Security Service, had the task of administering the Final Solution. Heydrich created special strike forces, called Einsatzgruppen, to carry out Nazi plans. After the defeat of Poland, these forces rounded up all Polish Jews and put them in ghettos set up in a number of Polish cities. Conditions in the ghettos were horrible. Families were crowded together in unsanitary housing. The Nazis tried to starve residents by allowing only minimal amounts of food. In spite of their suffering, residents carried on, and some organized resistance against the Nazis.'
+  question: 'What was the name for the special strike forces who carried out the Final Solution?'
+  answer: 'Einsatzgruppen'
+
+qa7:
+  context: 'Soviet women played a major role in the war effort. Women and girls worked in industries, mines, and railroads. Overall, the number of women working in industry increased almost 60 percent. Soviet women were also expected to dig antitank ditches and work as air-raid wardens. In addition, the Soviet Union was the only country in World War II to use women in battle. Soviet women served as snipers and also in aircrews of bomber squadrons.'
+  question: 'What was the only country in World War II that used women in battle? '
+  answer: 'Soviet Union'
+
+qa8:
+  context: 'The search for security during the Cold War led to the formation of new military alliances. The North Atlantic Treaty Organization (NATO) was formed in April 1949 when Belgium, Luxembourg, France, the Netherlands, Great Britain, Italy, Denmark, Norway, Portugal, and Iceland signed a treaty with the United States and Canada. All the powers agreed to provide mutual help if any one of them was attacked. A few years later, West Germany, Turkey, and Greece also joined. In 1955 the Soviet Union joined with Albania, Bulgaria, Czechoslovakia, East Germany, Hungary, Poland, and Romania in a formal military alliance known as the Warsaw Pact. Now, Europe was once again divided into hostile alliance systems, just as it had been before World War I.'
+  question: 'What is the name of the military alliance the Soviet Union made with seven nations in 1955?'
+  answer: 'Warsaw Pact'
+
+qa9:
+  context: 'The invasion began on Sunday, April 16, 1961. By Wednesday, the exiled fighters began surrendering. One hundred and fourteen died; the rest were captured by Castro’s troops. After the Bay of Pigs, the Soviet Union sent advisers to Cuba. Then, in 1962, Khrushchev began to place nuclear missiles in Cuba. The missiles were meant to counteract U.S. nuclear weapons placed in Turkey, a country within easy range of the Soviet Union.'
+  question: 'What did Nikita Khrushchev place in Cuba in 1962?'
+  answer: 'nuclear missiles'
+
+qa10:
+  context: 'Khrushchev loosened government controls on literary and artistic works. In 1962, for example, he allowed the publication of One Day in the Life of Ivan Denisovich. This novel, written by Aleksandr Solzhenitsyn (SOHL•zhuh• NEET•suhn), is a grim portrayal of life in a Siberian labor camp. Many Soviets identified with Ivan as a symbol of the suffering endured under Stalin.'
+  question: 'Who wrote One Day in the Life of Ivan Denisovich?'
+  answer: 'Aleksandr Solzhenitsyn'
+
+qa11:
+  context: 'Under Adenauer, West Germany experienced an “economic miracle.” This revival of the West German economy was largely guided by the minister of finance, Ludwig Erhard. Unemployment fell from 8 percent in 1950 to 0.4 percent in 1965. To maintain its economic expansion, West Germany even brought in hundreds of thousands of “guest” workers on visas from other countries such as Italy, Spain, Greece, Turkey, and Yugoslavia.'
+  question: 'Which postwar country experienced an “economic miracle”?'
+  answer: 'West Germany'
+
+qa12:
+  context: 'In the North and West, local patterns of segregation led to higher unemployment rates for African Americans than for whites. In the summer of 1965, race riots broke out in the Watts district of Los Angeles. Thirtyfour people died and over 1,000 buildings were destroyed. In 1968 Martin Luther King, Jr., was assassinated. Riots hit over 100 cities, including Washington, D.C. The riots led to a “white backlash” (whites became less sympathetic to the cause of racial equality) and continued the racial division of the United States'
+  question: 'In which year was Martin Luther King, Jr., assassinated?'
+  answer: '1968'
+
+qa13:
+  context: 'Of great importance to the emergence of the postwar women’s liberation movement was the work of Simone de Beauvoir (duh•boh•VWAHR). In 1949 she published The Second Sex. As a result of male-dominated societies, she argued, women were defined by their differences from men and consequently received second-class status. De Beauvoir influenced both the American and European women’s movements.'
+  question: 'Who wrote The Second Sex?'
+  answer: 'Simone de Beauvoir'
+
+qa14:
+  context: 'When the gov-ernment decided to spend huge sums to help the American colonists against Brit-ain, the budget went into total crisis.With France on the verge of financial col-lapse, Louis XVI was forced to call a meet-ing of the Estates-General, repre sentatives of all three estates meeting together,  to raise new taxes.  The Estates-General had not met since 1614 because French kings were so powerful.'
+  question: 'Who called a meeting of the Estates-General in 1789?'
+  answer: 'Louis XVI'
+qa15:
+  context: 'The new Constitution of 1791 set up a limited monarchy.  There was still a king,  but a Legislative Assembly would make the laws.  The new body was designed to be conservative.  First,  only the so-called  “active” citizens—men over 25 who paid a certain amount of taxes—could vote.  All others were considered  “passive”  citizens with equal rights but no vote. Second, the method of choosing its 745 deputies meant that only relatively wealthy people would serve. Not only the clergy, but also govern-ment officials and judges, would be elected. Local governments were put in charge of taxation. The influence of the new govern-ment began to spread throughout France.'
+  question: 'The Constitution of 1791 set up which form of government?'
+  answer: 'limited monarchy'
+qa16:
+  context: 'Napoleon then turned to his Continental System to defeat Britain.  The aim of the Continental System was to stop British goods from reaching the European conti-nent to be sold there. By weakening Britain economically, Napoleon would destroy its ability to wage war. The Continental System also failed.  Allied states resented being told by Napo-leon that they could not trade with the British.'
+  question: 'What was the goal of the Continental System?'
+  answer: 'stop British goods'
+qa17:
+  context: 'Napoleon raised another French army of devoted veterans who rallied from all over France. He then readied an attack on the allied troops stationed across the border in Belgium.At Waterloo in Belgium on June 18, 1815, Napoleon met a combined British and Prussian army under the Duke of Wellington and suffered a bloody defeat.  This time,  the victorious allies exiled him to St. Helena, a small island in the south Atlantic. Napoleon remained in exile until his death in 1821, but his memory haunted French political life for many decades.'
+  question: 'Where was Napoleon defeated for the fi nal time?'
+  answer: 'Waterloo in Belgium'
+qa18:
+  context: 'The cotton industry became even more productive when the steam engine was improved in the 1760s by James Watt,  a Scottish engineer.  In 1782,  Watt made changes that enabled the engine to drive machinery.  Steam power could now be used to spin and weave cotton.  Before long,  cotton mills using steam engines were found all over Britain. Because steam engines were fired by coal,  not powered by water,  they did not need to be located near rivers.'
+  question: 'Which engineer improved the steam engine so it could drive machinery?'
+  answer: 'James Watt'
+qa19:
+  context: 'The country became a single massive market for the manufactured goods of the Northeast. Labor for the growing number of facto-ries in the Northeast came chiefly from the farm population. Women and girls made up a large majority of the workers in large textile (cotton and wool) factories. Factory owners sometimes sought entire families,  including children,  to work in their factories.'
+  question: 'From where did labor for the factories in the United States mostly come?'
+  answer: 'farm population'
+qa20:
+  context: 'European cities and towns dramatically grew.   Industrialization spurred this growth. By 1850, British and Belgian cities were home to many industries.  With the steam engine, factory owners could locate their plants in cities.  People moved from the country to the cities to find work.In 1800, Great Britain had one major city, London, with a population of about 1 mil-lion.'
+  question: 'In what did industrialization trigger dramatic growth?'
+  answer: 'cities and towns'
+qa21:
+  context: 'The haughty Austrian foreign minister,  Prince Klemens von Metternich (MEH•tuhr•nihk), was the most influential leader at that meeting in Vienna. Metternich claimed that the principle of legitimacy guided him. He meant that lawful monarchs from the royal families who had ruled before Napoleon would be restored to their positions of power.  This,  they believed,  would ensure peace and stability in Europe. The victorious powers had already restored the Bourbon king to the French throne in 1814.'
+  question: 'Who was the most influential leader at the Congress of Vienna meeting in 1814?'
+  answer: 'Klemens von Metternich'
+qa22:
+  context: 'In the same year, 1830, three more revo-lutions occurred.  Nationalism was the chief force in all three of them.  Belgium,  which had been annexed to the former Dutch Republic in 1815,  rebelled and cre-ated an independent state.  In Poland and Italy,  which were both ruled by foreign powers, efforts to break free were less suc-cessful.   Russians crushed the Polish attempt to establish an independent Polish nation.   Meanwhile Austrian troops marched south and put down revolts in a number of Italian states.'
+  question: 'What ideology or ideologies were behind the 1830 revolutions?'
+  answer: 'Nationalism'
+qa23:
+  context: ' When the Prus-sian legislature refused to levy new taxes for the proposed military changes, William I appointed a new prime minister,  Count Otto von Bismarck. Bismarck has often been seen as the fore-most nineteenth-century practitioner of realpolitik—the  “politics of reality,”  or politics based on practical matters rather than on theory or ethics. Bismarck openly voiced his strong dislike of anyone who opposed him.'
+  question: 'Who was the politician who practiced realpolitik?'
+  answer: 'Otto von Bismarck'
+qa24:
+  context: 'Czar Alexander II decided to make some reforms. Serfdom, the largest problem in czarist Russia, was not just a humanitarian issue, but a complicated one that affected the economic,  social,  and political future of Russia. On March 3, 1861, Alexander issued an emancipation edict,  which freed the serfs.  Peasants could now own property and marry as they chose. The government provided land for the peasants by buying it from the landlords'
+  question: 'What was the largest problem in czarist Russia?'
+  answer: 'Serfdom'
+qa25:
+  context: 'For the true romantic, poetry was the ideal art form. The romantics viewed poetry as the direct expression of the soul. Romantic poetry gave expression to one of the most important characteristics of romanticism—its love of nature.  Roman-tics believed that nature served as a mirror into which humans could look to learn about themselves. This is especially evident in the poetry of William Wordsworth,  the foremost English romantic poet of nature.'
+  question: 'What did romantics view as the direct expression of the soul?'
+  answer: 'poetry'
+qa26:
+  context: 'In biology, the Frenchman Louis Pasteurproposed the germ theory of disease,  which was crucial to the development of modern scientific medical practices.  In chemistry, the Russian Dmitry Mendeleyev in the 1860s classified all the material ele-ments then known on the basis of their atomic weights.  In Great Britain,  Michael Faraday put together a primitive generator that laid the foundation for the use of elec-tric current'
+  question: 'Who classifi ed all the material elements known in the 1860s based on their atomic weights?'
+  answer: 'Dmitry Mendeleyev'
+qa27:
+  context: 'Archaeology is the study of past societies through analysis of what people left behind. Archeologists dig up and examine artifacts—objects made by humans. Artifacts may be tools, weapons, art, and even buildings made by early humans.'
+  question: 'What human made objects do Archaeologists study?'
+  answer: 'artifacts'
+
+qa28:
+  context: 'For decades, scientists assumed these earliest of upright creatures must also have used tools. In 1974, Donald Johanson challenged this theory when his team found a new skeleton in Ethiopia. Johanson nicknamed the female skeleton “Lucy” and suggested that she was the common ancestor for several types of early human life. Scientists called this type of hominid Australopithecus (aw•STRAY•loh•PIH• thuh•CUS), or “southern ape.” It flourished in eastern and southern Africa.'
+  question: 'What type of hominid did Donald Johnason and his team find in Ethiopia?'
+  answer: 'Australopithecus'
+
+qa29:
+  context: 'The end of the last Ice Age, around 8000 b.c., was followed by what is called the Neolithic Revolution—that is, the revolution that occurred in the Neolithic Age, the period of human history from 8000 to 4000 b.c. The word Neolithic is Greek for “new stone.” The name New Stone Age, however, is somewhat misleading. The real change in the Neolithic Revolution was the shift from the hunting of animals and the gathering of food to the keeping of animals and the growing of food on a regular basis—what we call systematic agriculture.'
+  question: 'What kind of agriculture is the keeping of animals and the growing of food on a regular basis?'
+  answer: 'systematic agriculture'
+
+qa30:
+  context: 'As a result of the steady food supply, people in Çatalhüyük had a food surplus. This meant people could enter other occupations than farming. Some people became artisans. These skilled workers made products such as weapons and jewelry and traded them with neighboring peoples. This exposed the people of Çatalhüyük to the wider world.'
+  question: 'What was the name of the workers wo made products such as weapons and jewelry?'
+  answer: 'artisans'
+
+qa31:
+  context: 'Anthropology is the study of human life and culture. Culture includes what people wear, how they organize their society, and what they value. Anthropologists use artifacts and human fossils to create a picture of peoples’ everyday lives. Fossils are rocklike remains of biological organisms—a leaf imprint or a skeleton. '
+  question: 'Which type of scientist uses fossils and artifacts to study early humans?'
+  answer: 'Anthropologists'
+
+qa32:
+  context: 'The second group descended from Homo sapiens is Homo sapiens sapiens, meaning “wise, wise human.” These are the first to have an anatomy similar to people today.  Physical evidence suggests that Homo sapiens sapiens appeared in Africa between 150,000 and 200,000 years ago. They probably spread out of Africa to other parts of the world about 100,000 years ago, replacing populations of earlier hominids in Europe and Asia. This is referred to as the “out-of-Africa” theory (or replacement theory).'
+  question: 'Which hominids do scientists believe were probably the first to spread out of Africa?'
+  answer: 'Homo sapiens sapiens'
+
+qa33:
+  context: 'Because Paleolithic people were hunters and gatherers, they had to follow animal migrations and vegetation cycles. Paleolithic humans were nomads—people who move from place to place to survive. Archaeologists and anthropologists think these nomads probably lived in small groups of twenty or thirty. Hunting depended on careful observation of animal behavior patterns and demanded group cooperation for success.'
+  question: 'What did Paleolithic people have to do to survive?'
+  answer: 'follow animal migrations'
+
+qa34:
+  context: 'Early humans were able to sustain themselves through the use of stone tools. To make such tools, early people used very hard stones, such as flint. They used one stone to chip away parts of another, creating an edge. Hand axes of various kinds— pointed tools with one or more cutting edges—were the most common. Hand axes eventually were set in wooden handles, making them easier to use. By attaching wooden poles to spear points and hardening the tips in fire, humans created spears to kill large animals'
+  question: 'Which invention allowed humans to hunt large animals?'
+  answer: 'spears'
+
+qa35:
+  context: 'The first civilizations developed in river valleys where people could carry on the large-scale farming that was needed to feed a large population. As farming became abundant, more people would live in the city. New patterns of living soon emerged.'
+  question: 'Where did the first civilizations develop?' 
+  answer: 'river valleys'
+
+qa36:
+  context: 'By 5000 b.c., farmers in Southeast Asia were growing rice. From there, rice farming spread into southern China. By 6000 b.c., farming millet and domesticating dogs and pigs seem to have been established in northern China. In the Western Hemisphere, Mesoamericans grew beans, squash, and maize. They also domesticated dogs and fowl in this period between 7000 and 5000 b.c'
+  question: 'Who were people in the western Hemisphere growing beans, squash, and maize in 7000 b.c.?'
+  answer: 'Mesoamericans'
+
+qa37:
+  context: 'The most prominent building in a Sumerian city was the temple dedicated to the chief god or goddess of the city. This temple was often built atop a massive stepped tower called a ziggurat.'
+  question: 'What is a Sumerian Stepped tower called?'
+  answer: 'ziggurat'
+
+qa38:
+  context: 'The Jews were monotheistic; they believed in one God called Yahweh (YAH•way), the Creator of the world and everything in it. In the Jews’ view, God ruled the world; all peoples were his servants, whether they knew it or not. God had created nature but was not in nature. The sun, the wind, and other natural phenomena were not gods, but God’s creations to be admired but not worshiped.'
+  question: 'What is the belief in one God called?'
+  answer: 'monotheistic'
+
+qa39:
+  context: 'Egypt’s history begins around 3100 b.c., when King Menes (MEE•NEEZ) united Upper and Lower Egypt into a single kingdom and created the first royal dynasty. A dynasty is a family of rulers whose right to rule is passed on within the family'
+  question: 'What is a family of rulers who pass on power within the family called?'
+  answer: 'dynasty'
+
+qa40:
+  context: 'Mesopotamian civilization refers to the achievements of people from three general areas: Assyria, Akkad, and Sumer. The Sumerians were the creators of the first Mesopotamian civilization.'
+  question: 'Who created the first Mesopotamian civilization?'
+  answer: 'Sumerians'
+
+qa41:
+  context: 'To the north of the Sumerian city-states were the Akkadians (uh•KAY•dee•uhnz). They spoke a Semitic language. Around 2340 b.c., Sargon, leader of the Akkadians, overran the Sumerian city-states and set up the first empire in world history.'
+  question: 'Which leader set up the first empire in world history?'
+  answer: 'Sargon'
+
+qa42:
+  context: 'The Sumerians created many inventions that still affect our lives today. Probably their greatest invention was their writing. In addition, historians credit them with many technological innovations.'
+  question: 'What was the greatest Sumerian invention?'
+  answer: 'writing'
+qa43:
+  context: 'In the fourteenth century, the Ottoman Turks expanded into the Balkans. The Ottoman rulers built a strong military by developing an elite guard called janissaries.  Recruited from the local Chris-tian population, the janissaries were converted to Islam. Trained as foot soldiers or administrators, they served the sultan.'
+  question: 'Who were the janissaries?'
+  answer: 'an elite guard'
+qa44:
+  context: 'Under the leadership of Mehmed II,the Ottomans moved to end the Byzan-tine Empire.   With eighty thousand troops ranged against only seven thou-sand defenders,  Mehmed laid siege to Constantinople.'
+  question: 'The Ottomans ended the Byzantine Empire by laying siege to which city?'
+  answer: 'Constantinople'
+qa45:
+  context: 'Like the other Muslim empires in Persia and India,  the Ottoman Empire is often labeled a gunpowder empire.  Gunpowder empires were formed by outside conquerors who unified the regions that they conquered.  As the name suggests,  such an empire’s success was largely based on its mastery of the technology of firearms'
+  question: 'The success of which type of empire was largely based on its mastery of firearms?'
+  answer: 'gunpowder empire'
+qa46:
+  context: 'The Ottoman Empire reached its high point under Suleyman I. (He was called “the Magnificent” by Europeans who both feared and admired him.) It may also have been during Suleyman’s rule  (1520–1566)  that problems began to occur, however. Having executed his two most able sons on suspicion of treason,  Suleyman was succeeded by his only surviving son, Selim II.'
+  question: 'Under which ruler did the Ottoman Empire reach its high point?'
+  answer: 'Suleyman I'
+qa47:
+  context: 'In the 1580s,  the Ottomans went on the attack.  They placed Azerbaijan under Ottoman rule and controlled the Caspian Sea with their fleet.  This forced the new Safavid shah, Abbas, to sign a peace treaty in which he lost much territory in the northwest. The capital of the Safavids was moved from the northwestern city of Tabriz to the more centrally located city of Esfahan. Abbas adorned his new capital city with the latest Persian architecture.  Esfahan became one of the world’s largest cities with a population of one million.'
+  question: 'Shah Abbas moved the capital city of the Safavids from Tabriz to which city?'
+  answer: 'Esfahan'
+qa48:
+  context: 'During the following decades,  the Safavids tried to consolidate their rule throughout Persia and in areas to the west. The Safavids were faced with the problem of integrating various Turkish peo-ples with the settled Persian-speaking population of the urban areas. The Shia faith was used as a unifying force. Esmail made conversion to the Shia faith mandatory for the largely Sunni population.  Many Sunnis were either killed or exiled. Like the Ottoman sultan, the shah himself claimed to be the spiritual leader of all Islam.'
+  question: 'What did the Safavids use as a unifying force?'
+  answer: 'The Shia faith'
+qa49:
+  context: 'Persia under the Safavids was a mixed society.  The combination of Turkish and Persian elements affected virtually all aspects of Safavid society.'
+  question: 'Safavid society was a combination of Turkish and what kind of elements?'
+  answer: 'Persian'
+qa50:
+  context: 'While fighting the French, Clive was also consolidating British control in Bengal.  The Indian ruler of Bengal had attacked Fort William in 1756. He had imprisoned the British garrison in the Black Hole of Calcutta,  an underground prison.  Due to the intense heat in the crowded space, only 23 people (out of 146) survived.'
+  question: 'What was the Black Hole of Calcutta?'
+  answer: 'an underground prison'
+qa51:
+  context: 'The Taj Mahal is widely considered to be the most beautiful building in India, if not in the entire world. The building seems to have monumental size,  nearly blinding brilliance, and delicate lightness.'
+  question: 'Which building is widely considered the most beautiful in India, if not in the entire world?'
+  answer: 'Taj Mahal'
+
+
+
+
+
+
+
+
+
+
+
+
+
