@@ -1,37 +1,37 @@
 chapter15:
     qa1:
-        context: 'In the fourteenth century, the Ottoman Turks expanded into the Balkans. The Ottoman rulers built a strong military by developing an  elite  guard  called  janissaries.  Recruited  from  the  local  Chris-tian population, the janissaries were converted to Islam. Trained as foot soldiers or administrators, they served the sultan.'
+        context: 'In the fourteenth century, the Ottoman Turks expanded into the Balkans. The Ottoman rulers built a strong military by developing an  elite  guard  called  janissaries.  Recruited  from  the  local Chris-tian population, the janissaries were converted to Islam. Trained as foot soldiers or administrators, they served the sultan.'
         question: 'Who were the janissaries?'
         answer: 'an elite guard'
     qa2:
-        context: 'Under  the  leadership  of  Mehmed  II,the Ottomans moved to end the Byzan-tine   Empire.   With   eighty   thousand   troops  ranged  against  only  seven  thou-sand  defenders,  Mehmed  laid  siege  to  Constantinople.'
+        context: 'Under  the  leadership of  Mehmed  II,the Ottomans moved to end the Byzan-tine   Empire.   With  eighty   thousand   troops  ranged  against  only  seven  thou-sand  defenders,  Mehmed  laid  siege  to  Constantinople.'
         question: 'The Ottomans ended the Byzantine Empire by laying siege to which city?'
         answer: 'Constantinople'
     qa3:
-        context: 'Like the other Muslim empires in Persia and  India,  the  Ottoman  Empire  is  often  labeled  a  gunpowder  empire.  Gunpowder  empires  were  formed  by  outside  conquerors  who  unified  the  regions  that  they  conquered.  As  the  name  suggests,  such  an  empire’s  success  was  largely  based on its mastery of the technology of firearms'
+        context: 'Like the other Muslim empires in Persia and  India,  the  Ottoman  Empire  is  often  labeled  a gunpowder empire.  Gunpowder empires were formed by outside conquerors  who  unified  the  regions  that  they  conquered.  As  the  name  suggests,  such an  empire’s  success  was  largely  based on its mastery of the technology of firearms'
         question: 'The success of which type of empire was largely based on its mastery of firearms?'
         answer: 'gunpowder empire'
     qa4:
-        context: 'The  Ottoman  Empire  reached  its  high  point  under  Suleyman I. (He was called “the Magnificent” by Europeans who both feared and admired him.) It may also have been during  Suleyman’s  rule  (1520–1566)  that  problems  began  to occur, however. Having executed his two most able sons on  suspicion  of  treason,  Suleyman  was  succeeded  by  his  only surviving son, Selim II.'
+        context: 'The  Ottoman  Empire  reached  its  high point  under  Suleyman I. (He was called “the Magnificent” by Europeans who both feared and admired him.) It may also have been during  Suleyman’s  rule  (1520–1566)  that  problems  began  to occur, however. Having executed his two most able sons on  suspicion  of  treason,  Suleyman  was  succeeded  by  his  only surviving son, Selim II.'
         question: 'Under which ruler did the Ottoman Empire reach its high point?'
         answer: 'Suleyman I'
     qa5:
-        context: 'In  the  1580s,  the  Ottomans  went  on  the  attack.  They  placed  Azerbaijan  under  Ottoman  rule  and  controlled  the  Caspian  Sea with  their  fleet.  This  forced  the  new  Safavid shah, Abbas, to sign a peace treaty in  which  he  lost  much  territory  in  the  northwest. The capital of the Safavids was moved  from  the  northwestern  city  of  Tabriz to the more centrally located city of Esfahan. Abbas  adorned  his  new  capital  city  with  the  latest  Persian  architecture.  Esfahan became one of the world’s largest cities with a population of one million.'
+        context: 'In  the  1580s,  the  Ottomans  went  on  the  attack.  They  placed  Azerbaijan  under  Ottoman  rule  and  controlled  the  Caspian  Sea with their  fleet.  This  forced  the  new  Safavid shah, Abbas, to sign a peace treaty in  which he  lost  much territory  in  the  northwest. The capital of the Safavids was moved  from  the  northwestern  city  of  Tabriz to the more centrally located city of Esfahan. Abbas  adorned  his  new  capital city  with the  latest  Persian  architecture.  Esfahan became one of the world’s largest cities with a population of one million.'
         question: 'Shah Abbas moved the capital city of the Safavids from Tabriz to which city?'
         answer: 'Esfahan'
     qa6:
-        context: 'During  the  following  decades,  the  Safavids  tried  to  consolidate  their rule throughout Persia and in areas to the west. The Safavids were faced with the problem of integrating various Turkish peo-ples  with  the  settled  Persian-speaking  population  of  the  urban areas. The Shia faith was used as a unifying force. Esmail made conversion to the Shia faith  mandatory  for  the  largely  Sunni  population.  Many  Sunnis  were  either  killed or exiled. Like the Ottoman sultan, the  shah  himself  claimed  to  be  the  spiritual leader of all Islam.'
+        context: 'During  the  following  decades,  the  Safavids  tried  to  consolidate  their rule throughout Persia and in areas to the west. The Safavids were faced with the problem of integrating various Turkish peo-ples  with the  settled  Persian-speaking  population  of  the  urban areas. The Shia faith was used as a unifying force. Esmail made conversion to the Shia faith mandatory  for  the  largely  Sunni  population.  Many  Sunnis  were  either  killed or exiled. Like the Ottoman sultan, the  shah himself  claimed  to  be  the  spiritual leader of all Islam.'
         question: 'What did the Safavids use as a unifying force?'
         answer: 'The Shia faith'
     qa7:
-        context: 'Persia  under  the  Safavids  was  a  mixed  society.  The  combination  of  Turkish  and  Persian  elements  affected  virtually all aspects of Safavid society.'
+        context: 'Persia under  the  Safavids  was  a mixed  society.  The  combination  of  Turkish and  Persian  elements  affected  virtually all aspects of Safavid society.'
         question: 'Safavid society was a combination of Turkish and what kind of elements?'
         answer: 'Persian'
     qa8:
-        context: 'While fighting the French, Clive was also consolidating British  control  in  Bengal.  The  Indian  ruler  of  Bengal  had  attacked Fort William in 1756. He had imprisoned the British  garrison  in  the  Black  Hole  of  Calcutta,  an  underground  prison.  Due  to  the  intense  heat  in  the  crowded  space, only 23 people (out of 146) survived.'
+        context: 'While fighting the French, Clive was also consolidating British control in  Bengal.  The  Indian  ruler  of  Bengal had  attacked Fort William in 1756. He had imprisoned the British garrison  in  the  Black  Hole  of  Calcutta,  an  underground  prison.  Due  to  the  intense  heat  in  the  crowded  space, only 23 people (out of 146) survived.'
         question: 'What was the Black Hole of Calcutta?'
-        answer: 'and underground prison'
+        answer: 'an underground prison'
     qa9:
-        context: 'The Taj Mahal is widely considered to be the most beautiful building in India, if not in the entire world. The building seems to have  monumental  size,  nearly  blinding  brilliance, and delicate lightness.'
+        context: 'The Taj Mahal is widely considered to be the most beautiful building in India, if not in the entire world. The building seems to have  monumental size,  nearly  blinding  brilliance, and delicate lightness.'
         question: 'Which building is widely considered the most beautiful in India, if not in the entire world?'
         answer: 'Taj Mahal'
